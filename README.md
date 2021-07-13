@@ -12,6 +12,7 @@
 ### Basic Nets - Image2Image
 - [arXiv'21.06] [[**AttnFlow**](https://arxiv.org/pdf/2106.03959.pdf)] Generative Flows with Invertible Attentions
 - [arXiv'21.04] [[**StyleGAN-Inversion**](https://arxiv.org/pdf/2104.07661.pdf)] A Simple Baseline for StyleGAN Inversion [[web](https://wty-ustc.github.io/inversion/)] [[pytorch](https://github.com/bes-dev/MobileStyleGAN.pytorch)]
+- [arXiv'21.02] [[**TransUNet**](https://arxiv.org/pdf/2102.04306.pdf)] TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation [[pytorch](https://github.com/bes-dev/MobileStyleGAN.pytorch)]
 - [CVPR'21] [[**GH-Feat**](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_Generative_Hierarchical_Features_From_Synthesizing_Images_CVPR_2021_paper.pdf)] Generative Hierarchical Features from Synthesizing Images
 [[pytorch](https://github.com/genforce/ghfeat)]
 - [CVPR'21] [[**pSp**](https://openaccess.thecvf.com/content/CVPR2021/papers/Richardson_Encoding_in_Style_A_StyleGAN_Encoder_for_Image-to-Image_Translation_CVPR_2021_paper.pdf)] Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation [[pytorch](https://github.com/eladrich/pixel2style2pixel)]
@@ -45,6 +46,7 @@
 
 ---
 ### Basic Nets - Vector2Image
+- [arXiv'21.04] [[**ViTGAN**](https://arxiv.org/pdf/2107.04589.pdf)] ViTGAN: Training GANs with Vision Transformers
 - [arXiv'21.06] [[**Alias-Free-GAN**](https://arxiv.org/pdf/2106.12423.pdf)] Alias-Free Generative Adversarial Networks 
 - [arXiv'21.04] [[**MobileStyleGAN**](https://arxiv.org/pdf/2104.04767.pdf)] MobileStyleGAN: A Lightweight Convolutional Neural Network for High-Fidelity Image Synthesis  [[pytorch](https://github.com/bes-dev/MobileStyleGAN.pytorch)]
 - [arXiv'21.03] [[**GANformer**](https://arxiv.org/pdf/2103.01209.pdf)] GANformer: Generative Adversarial Transformers  [[tensorflow](https://github.com/dorarad/gansformer)]
