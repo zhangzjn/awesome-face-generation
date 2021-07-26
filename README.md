@@ -100,6 +100,7 @@
 - [CVPR'20] [[**FReeNet**](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhang_FReeNet_Multi-Identity_Face_Reenactment_CVPR_2020_paper.pdf)] FReeNet: Multi-Identity Face Reenactment  [[pytorch](https://github.com/zhangzjn/FReeNet)]
 - [ICASSP'20] [[**APB2Face**](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9052977&tag=1)] APB2Face: Audio-guided face reenactment with auxiliary pose and blink signals  [[pytorch](https://github.com/zhangzjn/APB2Face)]
 - [ECCV'20] [[**Bi-layer**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570511.pdf)] Fast Bi-layer Neural Synthesis of One-Shot Realistic Head Avatars  [[pytorch](https://github.com/saic-violet/bilayer-model)]
+- [arXiv'20.12] [[**HeadGAN**](https://arxiv.org/pdf/2012.08261.pdf)] HeadGAN: One-shot Neural Head Synthesis and Editing
 - [arXiv'20.05] [[**FaR-GAN**](https://arxiv.org/pdf/2005.06402.pdf)] FaR-GAN for One-Shot Face Reenactment 
 - [AAAI'20] [[**DAE-GAN**](https://ojs.aaai.org/index.php/AAAI/article/view/6970/6824)] Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose 
 - [NIPS'19] [[**FOMM**](https://proceedings.neurips.cc/paper/2019/file/31c0b36aef265d9221af80872ceb62f9-Paper.pdf)] First Order Motion Model for Image Animation  [[web](https://aliaksandrsiarohin.github.io/first-order-model-website/)] [[pytorch](https://github.com/AliaksandrSiarohin/first-order-model)]
@@ -141,3 +142,7 @@
 - [[**FaceForensics++**](https://github.com/ondyari/FaceForensics)]
 - [[**SCUT-FBP**](https://link.zhihu.com/?target=https%3A//github.com/HCIILAB/SCUT-FBP5500-Database-Release)]
 - [[**MakeUp**](http://www.antitza.com/makeup-datasets.html)]
+
+---
+### Great Repos
+- [[**awesome-gan-inversion**](https://github.com/weihaox/awesome-gan-inversion)]
