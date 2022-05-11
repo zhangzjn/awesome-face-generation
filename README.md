@@ -1,12 +1,17 @@
 # Awesome Face Generation [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Contents
-- [Basic Nets](#Basic-Nets)
-- [Face Swap](#Face-Swap)
-- [Face Reenactment](#Face-Reenactment)
-- [Face Stylizing](#Face-Stylizing)
-- [Tools](#Tools)
-- [Datasets](#Datasets)
+- [Awesome Face Generation ![Awesome](https://awesome.re)](#awesome-face-generation-)
+  - [Contents](#contents)
+    - [Basic Nets - Image2Image](#basic-nets---image2image)
+    - [Basic Nets - Vector2Image](#basic-nets---vector2image)
+    - [Face Swap](#face-swap)
+    - [Face Reenactment](#face-reenactment)
+    - [Face Stylizing](#face-stylizing)
+    - [Audio-driven talking face](#audio-driven-talking-face)
+    - [Tools](#tools)
+    - [Datasets](#datasets)
+    - [Great Repos](#great-repos)
 
 ---
 ### Basic Nets - Image2Image
@@ -115,6 +120,21 @@
 - [ACM TOG'21] [[**StyleFlow**](https://dl.acm.org/doi/pdf/10.1145/3447648)] StyleFlow: Attribute-conditioned Exploration of StyleGAN-Generated Images using Conditional Continuous Normalizing Flows  [[pytorch](https://github.com/RameenAbdal/StyleFlow)]
 - [NeurIPSW'20] [[**Toonify**](https://arxiv.org/pdf/2010.05334.pdf)] Resolution Dependent GAN Interpolation for Controllable Image Synthesis Between Domains  [[web](https://rameenabdal.github.io/StyleFlow/)] [[tensorflow](https://github.com/justinpinkney/toonifyl)]
 
+---
+### Audio-driven talking face
+
+- [CVPR'19] [[**ATVGnet**](https://arxiv.org/abs/1905.03820)] Hierarchical cross-modal talking face generation with dynamic pixel-wise loss  [[pytorch](https://github.com/lelechen63/ATVGnet)]
+- [TIFS'22] [[**EBT**](https://arxiv.org/abs/2001.05201)] Everybody’s talkin’: Let me talk as you want  [[pytorch](https://wywu.github.io/projects/EBT/EBT.html)]
+- [ECCV'20] [[**Neural voice puppetry**](https://arxiv.org/abs/1912.05566)] Neural voice puppetry: Audio-driven facial reenactment  [[pytorch](https://github.com/miu200521358/NeuralVoicePuppetryMMD)]
+- [CVPR'21] [[**EVP**](https://jixinya.github.io/projects/evp/resources/evp.pdf)] Audio-Driven Emotional Video Portraits   [[pytorch](https://github.com/jixinya/EVP/)]
+- [SIGGRAPH'17] [[**obama**](http://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)] Audio-Driven Emotional Video Portraits   [[tensorflow](https://github.com/supasorn/synthesizing_obama_network_training)]
+- [ACMMM'21] [[**style_avatar**](https://arxiv.org/abs/2111.00203)] Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis   [[pytorch](https://github.com/wuhaozhe/style_avatar)]
+- [ICCV'21] [[**AD-NeRF**](https://arxiv.org/abs/2103.11078)] Audio Driven Neural Radiance Fields for Talking Head Synthesis   [[pytorch](https://github.com/YudongGuo/AD-NeRF)]
+- [CVPR'21] [[**Talking-Face_PC-AVS**](https://arxiv.org/abs/2104.11116)] Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation   [[pytorch](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
+- [arXiv'20] [[**Audio-driven-TalkingFace-HeadPose**](http://arxiv.org/abs/2002.10137)] Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose   [[pytorch](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
+- [AAAI'19] [[**Talking-Face-Generation-DAVS**](https://arxiv.org/abs/1807.07860)] Talking Face Generation by Adversarially Disentangled Audio-Visual Representation    [[pytorch](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)]
+- [ECCV'18] [[**X2Face**](https://www.robots.ox.ac.uk/~vgg/publications/2018/Wiles18/wiles18.pdf)] X2Face: A network for controlling face generation using images, audio, and pose codes    [[pytorch](https://github.com/oawiles/X2Face)]
+  
 ---
 ### Tools
 - [CVPR'19] [Face Recognition] [[**ArcFace**](https://arxiv.org/pdf/1801.07698.pdf)] ArcFace: Additive Angular Margin Loss for Deep Face Recognition [[code](https://github.com/deepinsight/insightface)]
