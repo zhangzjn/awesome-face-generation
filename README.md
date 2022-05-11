@@ -123,17 +123,17 @@
 ---
 ### Audio-driven talking face
 
-- [CVPR'19] [[**ATVGnet**](https://arxiv.org/abs/1905.03820)] Hierarchical cross-modal talking face generation with dynamic pixel-wise loss  [[pytorch](https://github.com/lelechen63/ATVGnet)]
 - [TIFS'22] [[**EBT**](https://arxiv.org/abs/2001.05201)] Everybody’s talkin’: Let me talk as you want  [[pytorch](https://wywu.github.io/projects/EBT/EBT.html)]
-- [ECCV'20] [[**Neural voice puppetry**](https://arxiv.org/abs/1912.05566)] Neural voice puppetry: Audio-driven facial reenactment  [[pytorch](https://github.com/miu200521358/NeuralVoicePuppetryMMD)]
 - [CVPR'21] [[**EVP**](https://jixinya.github.io/projects/evp/resources/evp.pdf)] Audio-Driven Emotional Video Portraits   [[pytorch](https://github.com/jixinya/EVP/)]
-- [SIGGRAPH'17] [[**obama**](http://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)] Audio-Driven Emotional Video Portraits   [[tensorflow](https://github.com/supasorn/synthesizing_obama_network_training)]
 - [ACMMM'21] [[**style_avatar**](https://arxiv.org/abs/2111.00203)] Imitating Arbitrary Talking Style for Realistic Audio-Driven Talking Face Synthesis   [[pytorch](https://github.com/wuhaozhe/style_avatar)]
 - [ICCV'21] [[**AD-NeRF**](https://arxiv.org/abs/2103.11078)] Audio Driven Neural Radiance Fields for Talking Head Synthesis   [[pytorch](https://github.com/YudongGuo/AD-NeRF)]
 - [CVPR'21] [[**Talking-Face_PC-AVS**](https://arxiv.org/abs/2104.11116)] Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation   [[pytorch](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS)]
 - [arXiv'20] [[**Audio-driven-TalkingFace-HeadPose**](http://arxiv.org/abs/2002.10137)] Audio-driven Talking Face Video Generation with Learning-based Personalized Head Pose   [[pytorch](https://github.com/yiranran/Audio-driven-TalkingFace-HeadPose)]
+- [ECCV'20] [[**Neural voice puppetry**](https://arxiv.org/abs/1912.05566)] Neural voice puppetry: Audio-driven facial reenactment  [[pytorch](https://github.com/miu200521358/NeuralVoicePuppetryMMD)]
+- [CVPR'19] [[**ATVGnet**](https://arxiv.org/abs/1905.03820)] Hierarchical cross-modal talking face generation with dynamic pixel-wise loss  [[pytorch](https://github.com/lelechen63/ATVGnet)]
 - [AAAI'19] [[**Talking-Face-Generation-DAVS**](https://arxiv.org/abs/1807.07860)] Talking Face Generation by Adversarially Disentangled Audio-Visual Representation    [[pytorch](https://github.com/Hangz-nju-cuhk/Talking-Face-Generation-DAVS)]
 - [ECCV'18] [[**X2Face**](https://www.robots.ox.ac.uk/~vgg/publications/2018/Wiles18/wiles18.pdf)] X2Face: A network for controlling face generation using images, audio, and pose codes    [[pytorch](https://github.com/oawiles/X2Face)]
+- [SIGGRAPH'17] [[**obama**](http://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)] Audio-Driven Emotional Video Portraits   [[tensorflow](https://github.com/supasorn/synthesizing_obama_network_training)]
   
 ---
 ### Tools
